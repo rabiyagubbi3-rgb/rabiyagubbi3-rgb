@@ -11,7 +11,7 @@
 <!-- ================= ABOUT ================= -->
 ## About Me
 
-- 🎓 College: **[Your College Name]**
+- 🎓 College: **[Jain College of Engineering & Technology Hubballi]**
 - 💻 Interested in **Machine Learning, AI, and Software Development**
 - 📊 Currently working on **ML-based applications and real-world problem solving**
 - 🚀 Goal: To build impactful and scalable intelligent systems
